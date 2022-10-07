@@ -20,7 +20,7 @@ match x {
     _ => println!("something else"),
 }
 ```
-Another Example
+Another Example for match
 
 ```rust,editable
 fn main() {
